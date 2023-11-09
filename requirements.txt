@@ -1,0 +1,16 @@
+
+To use the code, make sure to have installed the following libraries: 
+- import matplotlib.pyplot as plt
+- import numpy as np
+- import pandas as pd
+- import geopandas as gpd
+- import cartopy.crs as ccrs
+- import shapely as shp
+
+
+- import math
+- import itertools
+- import rasterio
+
+- import osmnx as ox
+- import requests

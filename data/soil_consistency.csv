@@ -1,0 +1,7 @@
+SPT Penetration�(blows/ foot) (lower boundary);SPT Penetration�(blows/ foot) (upper boundary);Estimated Consistency;UCS(kPa) (lower boundary);UCS(kPa) (upper boundary)
+0;2;Very Soft;0;24
+2;4;Soft;24;48
+4;8;Medium;48;96
+8;15;Stiff;96;192
+15;30;Very Stiff;192;388
+30;100000;Hard;388;1000000

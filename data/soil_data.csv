@@ -1,0 +1,23 @@
+﻿Ground Type;;PSI;Bearing capacity (Kg/m2);Bearing capacity (kN/m2);c:cohesion Kpa = KN/m2;Angle of repose;Nc;Nq;Nγ;γ : unit weight of soil KN/m3;w:density of soil Kg/m2;" "
+Rock;Bedrock;833;585657,31;5742,702;10000;30;37,2;22,5;19,7;26;3500;
+Rock;Layers;208;146238,56;1433,952;10000;25;25,1;12,7;9,7;24;2600;
+Rock;Soft;111;78040,77;765,234;10000;20;17,7;7,4;5;22;1690;
+hardpan, cemented sand or gravel;all;139;97726,73;958,266;0;40;95,7;81,3;100,4;18;2000;
+"gravel 
+or sand";Compact;111;78040,77;765,234;0;40;95,7;81,3;100,4;21;2560;
+"gravel 
+or sand";Firm;83;58354,81;572,202;0;35;57,8;41,4;42,4;18;2000;
+"gravel 
+or sand";Loose;56;39371,92;386,064;0;25;25,1;12,7;9,7;16;1600;
+Sand, coarse to medium;Compact;83;58354,81;572,202;0;35;57,8;41,4;42,4;19;1900;
+Sand, coarse to medium;Firm;63;44293,41;434,322;0;30;37,2;22,5;19,7;17;1700;
+Sand, coarse to medium;Loose;42;29528,94;289,548;0;25;25,1;12,7;9,7;16;1500;
+sand, fine, silty or with trace of clay;Compact;56;39371,92;386,064;50;15;12,9;4,4;2,5;18,4;1600;
+sand, fine, silty or with trace of clay;Firm;42;29528,94;289,548;20;15;12,9;4,4;2,5;17,4;1500;
+sand, fine, silty or with trace of clay;Loose;28;19685,96;193,032;20;15;12,9;4,4;2,5;16,4;1400;
+Silt;Compact;42;29528,94;289,548;75;50;347,5;415,1;1153,2;20;2100;
+Silt;Firm;35;24607,45;241,29;75;20;17,7;7,4;5;19;2100;
+Silt;Loose;28;19685,96;193,032;75;25;25,1;12,7;9,7;18;2100;
+Clay;Compact;56;39371,92;386,064;20;40;;;;20;1760;
+Clay;Firm;35;24607,45;241,29;15;15;12,9;4,4;2,5;18;1700;
+Clay;Loose;14;9842,98;96,516;10;20;17,7;7,4;5;16;1600;
