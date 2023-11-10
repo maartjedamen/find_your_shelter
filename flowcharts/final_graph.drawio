@@ -1,0 +1,339 @@
+<mxfile host="app.diagrams.net" modified="2023-11-10T08:31:46.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="D3MYNEzvuRNMY--36aof" version="22.1.0" type="google">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;jumpStyle=none;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="-noRsnEJIfIG9K7XGaTn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="input area" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-320" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="-noRsnEJIfIG9K7XGaTn-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="climate datasource" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-320" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="-noRsnEJIfIG9K7XGaTn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="land elevation datasource" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-320" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=1;jumpStyle=none;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="-noRsnEJIfIG9K7XGaTn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="population datasource&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-320" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-0" target="-noRsnEJIfIG9K7XGaTn-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-0" target="00pkxjePnatreIA204ib-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-0" value="soil datasource" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-2" target="-noRsnEJIfIG9K7XGaTn-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-2" value="shelter foundation dataset" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fillColor=#C38A72;strokeColor=none;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fX-Ce0WXyzDd1HvhYibp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-3" target="00pkxjePnatreIA204ib-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-3" target="-noRsnEJIfIG9K7XGaTn-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-3" value="location dataset" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fillColor=#c38a72;strokeColor=none;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-4" value="OpenStreetMap" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-320" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=1;jumpStyle=none;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-5" target="-noRsnEJIfIG9K7XGaTn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-5" value="road network" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-150" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=1;jumpStyle=none;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-6" target="-noRsnEJIfIG9K7XGaTn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-6" value="areas (places, landuse, landcover)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-150" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-7" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-4" target="-noRsnEJIfIG9K7XGaTn-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="180" as="sourcePoint" />
+            <mxPoint x="170" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-8" value="" style="endArrow=blockThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-4" target="-noRsnEJIfIG9K7XGaTn-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="180" as="sourcePoint" />
+            <mxPoint x="-140" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-16" target="-noRsnEJIfIG9K7XGaTn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-9" value="shelter location suggestions&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-14" target="-noRsnEJIfIG9K7XGaTn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-14" value="location specific climate data generation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="330" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-19" value="slope analysis for each suggested shelter location" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="420" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;jumpStyle=arc;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-9" target="-noRsnEJIfIG9K7XGaTn-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="100" as="sourcePoint" />
+            <mxPoint x="100" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-16" value="evacuation number for each suggested shelter location&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-35" value="user result: Shelter information" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C38A72;strokeWidth=2;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2260" y="535" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-36" target="-noRsnEJIfIG9K7XGaTn-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-36" value="User result: Parallel coordinates graph" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C38A72;strokeWidth=2;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2110" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-39" target="-noRsnEJIfIG9K7XGaTn-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-39" value="first selection of foundation options considering soil consistency" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-42" target="-noRsnEJIfIG9K7XGaTn-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-42" target="-noRsnEJIfIG9K7XGaTn-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-42" value="wind load (F) calculation&lt;br style=&quot;font-size: 11px;&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="970" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-45" target="-noRsnEJIfIG9K7XGaTn-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-45" value="wind uplift load (F) calculation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="1100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-48" target="-noRsnEJIfIG9K7XGaTn-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-48" value="calculation of foundation properties: considering shelter weight and soil data&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1130" y="890" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-50" target="-noRsnEJIfIG9K7XGaTn-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-61" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=11;" connectable="0" vertex="1" parent="-noRsnEJIfIG9K7XGaTn-60">
+          <mxGeometry x="0.46" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-50" target="-noRsnEJIfIG9K7XGaTn-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-73" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=11;" connectable="0" vertex="1" parent="-noRsnEJIfIG9K7XGaTn-72">
+          <mxGeometry x="0.2152" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-50" value="check: does the suggested foundation type bear windload impact?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1130" y="1011" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-56" target="00pkxjePnatreIA204ib-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-28" value="yes&lt;br style=&quot;font-size: 11px;&quot;&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=11;" connectable="0" vertex="1" parent="-noRsnEJIfIG9K7XGaTn-57">
+          <mxGeometry x="-0.2229" y="3" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-56" target="85NtrSj1B9ElqPKO-Qmv-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2240" y="781" as="targetPoint" />
+            <mxPoint x="1800" y="831" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1610" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-31" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=11;" connectable="0" vertex="1" parent="85NtrSj1B9ElqPKO-Qmv-24">
+          <mxGeometry x="-0.9144" y="-5" relative="1" as="geometry">
+            <mxPoint x="-1" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-56" value="if the foundationtype is size-flexible:&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1530" y="1011" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-59" target="-noRsnEJIfIG9K7XGaTn-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-59" value="Add needed weight" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="1111" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fX-Ce0WXyzDd1HvhYibp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-62" target="00pkxjePnatreIA204ib-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-62" value="shelter dataset" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;fillColor=#c38a72;strokeColor=none;gradientColor=none;fontFamily=Verdana;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="-noRsnEJIfIG9K7XGaTn-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="1041" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-noRsnEJIfIG9K7XGaTn-71" value="suggested foundation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1351" y="1011" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-5" target="00pkxjePnatreIA204ib-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-5" value="Filter Shelters according to minimum&amp;nbsp; climate qualities&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-12" value="Analyse and rank shelters&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="980" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-36" target="-noRsnEJIfIG9K7XGaTn-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="405" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-23" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Data analysis for the location&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="10" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fX-Ce0WXyzDd1HvhYibp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-30" target="00pkxjePnatreIA204ib-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-30" value="Specific shelter location" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="795" y="295" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-12" target="00pkxjePnatreIA204ib-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="390" as="sourcePoint" />
+            <mxPoint x="1750" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-36" target="00pkxjePnatreIA204ib-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="650" />
+              <mxPoint x="650" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-36" value="Proposed shelters" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="385" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-43" target="-noRsnEJIfIG9K7XGaTn-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="1050" />
+              <mxPoint x="850" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-43" target="-noRsnEJIfIG9K7XGaTn-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="1050" />
+              <mxPoint x="850" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-43" target="-noRsnEJIfIG9K7XGaTn-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="1050" />
+              <mxPoint x="850" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-43" target="00pkxjePnatreIA204ib-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-43" value="Proposed shelter" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="1032" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-51" target="00pkxjePnatreIA204ib-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-51" value="Number of footings" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1750" y="1191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-56" target="00pkxjePnatreIA204ib-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-60" target="00pkxjePnatreIA204ib-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-60" value="Depth of the Foundation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1930" y="1011" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="00pkxjePnatreIA204ib-64" target="85NtrSj1B9ElqPKO-Qmv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-64" value="&amp;nbsp;Soil Ultimate bearing capacity check" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2110" y="1011" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fX-Ce0WXyzDd1HvhYibp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-noRsnEJIfIG9K7XGaTn-19" target="-noRsnEJIfIG9K7XGaTn-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fX-Ce0WXyzDd1HvhYibp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="-noRsnEJIfIG9K7XGaTn-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="85NtrSj1B9ElqPKO-Qmv-25" target="-noRsnEJIfIG9K7XGaTn-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="535" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2320" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00pkxjePnatreIA204ib-56" value="calculate size of the foundation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1750" y="1012" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-25" value="Proposed foundation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2110" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vhalz1Sac2fekYyXIB47-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="85NtrSj1B9ElqPKO-Qmv-34" target="-noRsnEJIfIG9K7XGaTn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85NtrSj1B9ElqPKO-Qmv-34" value="Foundation information collection: &lt;br style=&quot;font-size: 11px;&quot;&gt;foundation knowledge base" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="797.5" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="vhalz1Sac2fekYyXIB47-1" value="Shelter information collection: &lt;br style=&quot;font-size: 11px;&quot;&gt;shelter knowledge base" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="335" width="160" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

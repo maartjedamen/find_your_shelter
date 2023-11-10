@@ -10,8 +10,7 @@ The digital workflow
 
 how the code is structured: 
 
-![_General Flowchart_](pictures/flowcharts/general diagram.drawio.png) 
-
+![_General Flowchart_](pictures/flowcharts/general_diagram.drawio.png)
 
 The code works from it's own functions-library: Shelter.py
 
@@ -39,7 +38,12 @@ This project is written and tested in Python 3.9.
 Clone the repository:
 ```sh
 git clone https://github.com/maartjedamen/shelterproject
-cd natural-surveillance
+cd shelterproject
+```
+Install the dependencies:
+
+```sh
+pip install -r requirements.txt
 ```
 
 ### Location selection
@@ -62,7 +66,15 @@ The fastest_path.ipynb is a file that showcases the option for generating the fa
 *In the end, the fastest_path.ipynb has not been taken into use due to complexity within the given timeframe.*
 
 ###  Database 
-The next file is the shelter_info.ipynb. 
+For this analysis, we make use of three databases, structured the following: 
+Foundation dataset:
+![foundation dataset](pictures/flowcharts/foundation.drawio.png)
+Shelter dataset:
+![shelter dataset](pictures/flowcharts/shelter_dataset.drawio.png)
+Location dataset:
+![location dataset](pictures/flowcharts/location_info.drawio.png)
+
+the generation of the location dataset is being executed in shelter_info.ipynb. 
 In this file, the shelter locations are joined with their location specific data. No additional information is needed: it can be run after the shelter_locations is finished running.  
 it appends population data, weather data and elevation data of each location to form an elaborate GeoDataFrame. This is then saved in the data-folder. 
 
@@ -77,6 +89,8 @@ The final file is the Shelter_decisionsupport.py. With running this file, the lo
 After this, the structural analysis is being excecuted and all information that is needed for the user is handed. 
 
 
-![_Decision Support_](pictures/visuals/step 4Tekengebied 2@3x.png) 
+![_Decision Support_](pictures/visuals/step_4.png) 
+![_Decision Support_](pictures/visuals/step_5.png)
 
-![_Decision Support_](pictures/visuals/step 5Tekengebied 2@3x.png) 
+
+<video src="doc/video_presentation.mp4" controls title="Watch the video explanation"></video>
