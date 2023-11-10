@@ -3,6 +3,7 @@
 ## An information-driven framework to increase efficiency in site-specific shelter decision making process.
 
 This repository contains the code that is written for the course 'CORE AR3B012' of TU Delft MSC Building Technology. For further detailed information, check the full documentation: [_Find Your Shelter: An information-driven framework to increase efficiency in site-specific shelter decision making process_](/doc/placeholder_final_report). 
+![_Or watch the video explanation_](doc/video_presentation.mp4)
 
 A documentation (a "readme") that explains the digital workflow, including a guide on how to run the code (i.e. which Python scripts need to be run for which functionalities). Include the flowcharts, and/or pseudocode, and/or any other relevant diagrams to help illustrate the code's functionalities.
 
@@ -93,4 +94,3 @@ After this, the structural analysis is being excecuted and all information that 
 ![_Decision Support_](pictures/visuals/step_5.png)
 
 
-<video src="doc/video_presentation.mp4" controls title="Watch the video explanation"></video>
